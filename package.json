@@ -1,0 +1,24 @@
+{
+  "name": "drowebs",
+  "version": "1.0.0",
+  "description": "Home page for the custom web design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drowebsites/drowebs.git"
+  },
+  "author": "Steveen Echeverri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drowebsites/drowebs/issues"
+  },
+  "homepage": "https://github.com/Drowebsites/drowebs#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
